@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "420cf472e5f5d15f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1197bc8390b53b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f3153d9bebbe3ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stm32/EXTI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee0d574535344419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stm32/Tim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7837049c64d2e630",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3d15c906f267c5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61e118a0b9dd7f2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7177a65cb0ec9ce3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a43306eeeb6b05db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d618339521ca45a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5a3cb3d724a3f2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be792a69d386a9aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Stm32/Tim.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c745f9c7b96c6f7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Stm32/Tim.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12094ea7aee68908",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fbc2bb83a7feaa05",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Stm32/Tim.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ee0d574535344419",
+  "lastOpenFiles": [
+    "资料/STM32入门教程.pptx",
+    "资料/STM32F10xxx闪存编程参考手册（中文）.pdf",
+    "资料/STM32F10xxx参考手册（中文）.pdf",
+    "资料/STM32F103x8B数据手册（中文）.pdf",
+    "资料/STM32F103C8T6引脚定义.png",
+    "资料/Cortex-M3权威指南.pdf",
+    "资料",
+    "STM32F103x8B数据手册（中文）.pdf",
+    "STM32F10xxx闪存编程参考手册（中文）.pdf",
+    "Cortex-M3权威指南.pdf",
+    "Pasted image 20240131165011.png",
+    "Pasted image 20240131164813.png",
+    "Stm32/Tim.md",
+    "Stm32/EXTI.md",
+    "README.md",
+    "Stm32/GPIO.md"
+  ]
+}
